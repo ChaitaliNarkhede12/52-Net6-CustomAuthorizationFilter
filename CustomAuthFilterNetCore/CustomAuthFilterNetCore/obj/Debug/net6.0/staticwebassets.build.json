@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dD67z7OBLBe2P1tiTeuUOzUqO5mfO22/sKon4fUnrdo=",
+  "Source": "CustomAuthFilterNetCore",
+  "BasePath": "_content/CustomAuthFilterNetCore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
